@@ -1,0 +1,14 @@
+C:\Users\Alihf\source\repos\CQRSProject\CQRS.Service\bin\Debug\netstandard2.0\CQRS.Service.deps.json
+C:\Users\Alihf\source\repos\CQRSProject\CQRS.Service\bin\Debug\netstandard2.0\CQRS.Service.dll
+C:\Users\Alihf\source\repos\CQRSProject\CQRS.Service\bin\Debug\netstandard2.0\CQRS.Service.pdb
+C:\Users\Alihf\source\repos\CQRSProject\CQRS.Service\bin\Debug\netstandard2.0\CQRS.Core.dll
+C:\Users\Alihf\source\repos\CQRSProject\CQRS.Service\bin\Debug\netstandard2.0\CQRS.Data.dll
+C:\Users\Alihf\source\repos\CQRSProject\CQRS.Service\bin\Debug\netstandard2.0\CQRS.Data.pdb
+C:\Users\Alihf\source\repos\CQRSProject\CQRS.Service\bin\Debug\netstandard2.0\CQRS.Core.pdb
+C:\Users\Alihf\source\repos\CQRSProject\CQRS.Service\obj\Debug\netstandard2.0\CQRS.Service.csprojAssemblyReference.cache
+C:\Users\Alihf\source\repos\CQRSProject\CQRS.Service\obj\Debug\netstandard2.0\CQRS.Service.csproj.CoreCompileInputs.cache
+C:\Users\Alihf\source\repos\CQRSProject\CQRS.Service\obj\Debug\netstandard2.0\CQRS.Service.AssemblyInfoInputs.cache
+C:\Users\Alihf\source\repos\CQRSProject\CQRS.Service\obj\Debug\netstandard2.0\CQRS.Service.AssemblyInfo.cs
+C:\Users\Alihf\source\repos\CQRSProject\CQRS.Service\obj\Debug\netstandard2.0\CQRS.Service.csproj.CopyComplete
+C:\Users\Alihf\source\repos\CQRSProject\CQRS.Service\obj\Debug\netstandard2.0\CQRS.Service.dll
+C:\Users\Alihf\source\repos\CQRSProject\CQRS.Service\obj\Debug\netstandard2.0\CQRS.Service.pdb

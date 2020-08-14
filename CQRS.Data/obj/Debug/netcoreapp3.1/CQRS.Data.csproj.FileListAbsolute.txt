@@ -1,0 +1,28 @@
+C:\Users\Alihf\source\repos\CQRSProject\CQRS.Data\bin\Debug\netcoreapp3.1\CQRS.Data.deps.json
+C:\Users\Alihf\source\repos\CQRSProject\CQRS.Data\bin\Debug\netcoreapp3.1\CQRS.Data.runtimeconfig.json
+C:\Users\Alihf\source\repos\CQRSProject\CQRS.Data\bin\Debug\netcoreapp3.1\CQRS.Data.runtimeconfig.dev.json
+C:\Users\Alihf\source\repos\CQRSProject\CQRS.Data\bin\Debug\netcoreapp3.1\CQRS.Data.dll
+C:\Users\Alihf\source\repos\CQRSProject\CQRS.Data\bin\Debug\netcoreapp3.1\CQRS.Data.pdb
+C:\Users\Alihf\source\repos\CQRSProject\CQRS.Data\bin\Debug\netcoreapp3.1\CQRS.Core.dll
+C:\Users\Alihf\source\repos\CQRSProject\CQRS.Data\bin\Debug\netcoreapp3.1\CQRS.Core.pdb
+C:\Users\Alihf\source\repos\CQRSProject\CQRS.Data\obj\Debug\netcoreapp3.1\CQRS.Data.csprojAssemblyReference.cache
+C:\Users\Alihf\source\repos\CQRSProject\CQRS.Data\obj\Debug\netcoreapp3.1\CQRS.Data.csproj.CoreCompileInputs.cache
+C:\Users\Alihf\source\repos\CQRSProject\CQRS.Data\obj\Debug\netcoreapp3.1\CQRS.Data.AssemblyInfoInputs.cache
+C:\Users\Alihf\source\repos\CQRSProject\CQRS.Data\obj\Debug\netcoreapp3.1\CQRS.Data.AssemblyInfo.cs
+C:\Users\Alihf\source\repos\CQRSProject\CQRS.Data\obj\Debug\netcoreapp3.1\CQRS.Data.csproj.CopyComplete
+C:\Users\Alihf\source\repos\CQRSProject\CQRS.Data\obj\Debug\netcoreapp3.1\CQRS.Data.dll
+C:\Users\Alihf\source\repos\CQRSProject\CQRS.Data\obj\Debug\netcoreapp3.1\CQRS.Data.pdb
+C:\Users\Alihf\source\repos\CQRSProject\CQRS.Data\obj\Debug\netcoreapp3.1\CQRS.Data.genruntimeconfig.cache
+F:\My Appliction\WebAPI\CQRSProject\CQRS.Data\bin\Debug\netcoreapp3.1\CQRS.Data.deps.json
+F:\My Appliction\WebAPI\CQRSProject\CQRS.Data\bin\Debug\netcoreapp3.1\CQRS.Data.runtimeconfig.json
+F:\My Appliction\WebAPI\CQRSProject\CQRS.Data\bin\Debug\netcoreapp3.1\CQRS.Data.runtimeconfig.dev.json
+F:\My Appliction\WebAPI\CQRSProject\CQRS.Data\bin\Debug\netcoreapp3.1\CQRS.Data.dll
+F:\My Appliction\WebAPI\CQRSProject\CQRS.Data\bin\Debug\netcoreapp3.1\CQRS.Data.pdb
+F:\My Appliction\WebAPI\CQRSProject\CQRS.Data\bin\Debug\netcoreapp3.1\CQRS.Core.dll
+F:\My Appliction\WebAPI\CQRSProject\CQRS.Data\bin\Debug\netcoreapp3.1\CQRS.Core.pdb
+F:\My Appliction\WebAPI\CQRSProject\CQRS.Data\obj\Debug\netcoreapp3.1\CQRS.Data.csprojAssemblyReference.cache
+F:\My Appliction\WebAPI\CQRSProject\CQRS.Data\obj\Debug\netcoreapp3.1\CQRS.Data.AssemblyInfoInputs.cache
+F:\My Appliction\WebAPI\CQRSProject\CQRS.Data\obj\Debug\netcoreapp3.1\CQRS.Data.AssemblyInfo.cs
+F:\My Appliction\WebAPI\CQRSProject\CQRS.Data\obj\Debug\netcoreapp3.1\CQRS.Data.csproj.CopyComplete
+F:\My Appliction\WebAPI\CQRSProject\CQRS.Data\obj\Debug\netcoreapp3.1\CQRS.Data.dll
+F:\My Appliction\WebAPI\CQRSProject\CQRS.Data\obj\Debug\netcoreapp3.1\CQRS.Data.pdb

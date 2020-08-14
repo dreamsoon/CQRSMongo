@@ -1,0 +1,17 @@
+C:\Users\Alihf\source\repos\CQRSProject\CQRS.FrameWork\bin\Debug\netstandard2.0\CQRS.FrameWork.deps.json
+C:\Users\Alihf\source\repos\CQRSProject\CQRS.FrameWork\bin\Debug\netstandard2.0\CQRS.FrameWork.dll
+C:\Users\Alihf\source\repos\CQRSProject\CQRS.FrameWork\bin\Debug\netstandard2.0\CQRS.FrameWork.pdb
+C:\Users\Alihf\source\repos\CQRSProject\CQRS.FrameWork\obj\Debug\netstandard2.0\CQRS.FrameWork.csprojAssemblyReference.cache
+C:\Users\Alihf\source\repos\CQRSProject\CQRS.FrameWork\obj\Debug\netstandard2.0\CQRS.FrameWork.csproj.CoreCompileInputs.cache
+C:\Users\Alihf\source\repos\CQRSProject\CQRS.FrameWork\obj\Debug\netstandard2.0\CQRS.FrameWork.AssemblyInfoInputs.cache
+C:\Users\Alihf\source\repos\CQRSProject\CQRS.FrameWork\obj\Debug\netstandard2.0\CQRS.FrameWork.AssemblyInfo.cs
+C:\Users\Alihf\source\repos\CQRSProject\CQRS.FrameWork\obj\Debug\netstandard2.0\CQRS.FrameWork.dll
+C:\Users\Alihf\source\repos\CQRSProject\CQRS.FrameWork\obj\Debug\netstandard2.0\CQRS.FrameWork.pdb
+F:\My Appliction\WebAPI\CQRSProject\CQRS.FrameWork\bin\Debug\netstandard2.0\CQRS.FrameWork.deps.json
+F:\My Appliction\WebAPI\CQRSProject\CQRS.FrameWork\bin\Debug\netstandard2.0\CQRS.FrameWork.dll
+F:\My Appliction\WebAPI\CQRSProject\CQRS.FrameWork\bin\Debug\netstandard2.0\CQRS.FrameWork.pdb
+F:\My Appliction\WebAPI\CQRSProject\CQRS.FrameWork\obj\Debug\netstandard2.0\CQRS.FrameWork.csprojAssemblyReference.cache
+F:\My Appliction\WebAPI\CQRSProject\CQRS.FrameWork\obj\Debug\netstandard2.0\CQRS.FrameWork.AssemblyInfoInputs.cache
+F:\My Appliction\WebAPI\CQRSProject\CQRS.FrameWork\obj\Debug\netstandard2.0\CQRS.FrameWork.AssemblyInfo.cs
+F:\My Appliction\WebAPI\CQRSProject\CQRS.FrameWork\obj\Debug\netstandard2.0\CQRS.FrameWork.dll
+F:\My Appliction\WebAPI\CQRSProject\CQRS.FrameWork\obj\Debug\netstandard2.0\CQRS.FrameWork.pdb

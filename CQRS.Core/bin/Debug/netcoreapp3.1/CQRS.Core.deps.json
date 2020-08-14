@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "CQRS.Core/1.0.0": {
+        "dependencies": {
+          "MongoDB.Bson": "2.11.0"
+        },
+        "runtime": {
+          "CQRS.Core.dll": {}
+        }
+      },
+      "MongoDB.Bson/2.11.0": {
+        "runtime": {
+          "lib/netstandard2.0/MongoDB.Bson.dll": {
+            "assemblyVersion": "2.11.0.0",
+            "fileVersion": "2.11.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CQRS.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MongoDB.Bson/2.11.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-mrmEJaxej5DYu4OFosja1nn9nep2UL38pWvzyyZbDo735pgbOPDEsQJ9v0uSkNK1uywdDHMp1gc0cDA6gFivvg==",
+      "path": "mongodb.bson/2.11.0",
+      "hashPath": "mongodb.bson.2.11.0.nupkg.sha512"
+    }
+  }
+}

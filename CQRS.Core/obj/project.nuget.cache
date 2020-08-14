@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "o+aplwZAmqYRERORWF7CMoYytMZ2duIy+4v8bKX/b/Ry3kJheNE/Tj+AquLqrWxkoyWjfon2OMlZGRisVorvUg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Alihf\\source\\repos\\CQRSProject\\CQRS.Core\\CQRS.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Alihf\\.nuget\\packages\\mongodb.bson\\2.11.0\\mongodb.bson.2.11.0.nupkg.sha512"
+  ],
+  "logs": []
+}
